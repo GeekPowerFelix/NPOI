@@ -1,0 +1,15 @@
+D:\ATS\Application\C#\DefectNameReportVersion10\DefectNameReportVersion10\bin\Debug\DefectNameReportVersion10.exe.config
+D:\ATS\Application\C#\DefectNameReportVersion10\DefectNameReportVersion10\bin\Debug\DefectNameReportVersion10.exe
+D:\ATS\Application\C#\DefectNameReportVersion10\DefectNameReportVersion10\bin\Debug\DefectNameReportVersion10.pdb
+D:\ATS\Application\C#\DefectNameReportVersion10\DefectNameReportVersion10\obj\Debug\DefectNameReportVersion10.csprojResolveAssemblyReference.cache
+D:\ATS\Application\C#\DefectNameReportVersion10\DefectNameReportVersion10\obj\Debug\DefectNameReportVersion10.Form1.resources
+D:\ATS\Application\C#\DefectNameReportVersion10\DefectNameReportVersion10\obj\Debug\DefectNameReportVersion10.Properties.Resources.resources
+D:\ATS\Application\C#\DefectNameReportVersion10\DefectNameReportVersion10\obj\Debug\DefectNameReportVersion10.csproj.GenerateResource.Cache
+D:\ATS\Application\C#\DefectNameReportVersion10\DefectNameReportVersion10\obj\Debug\DefectNameReportVersion10.exe
+D:\ATS\Application\C#\DefectNameReportVersion10\DefectNameReportVersion10\obj\Debug\DefectNameReportVersion10.pdb
+D:\ATS\Application\C#\DefectNameReportVersion10\DefectNameReportVersion10\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\ATS\Application\C#\DefectNameReportVersion10\DefectNameReportVersion10\bin\Debug\NPOI.dll
+D:\ATS\Application\C#\DefectNameReportVersion10\DefectNameReportVersion10\bin\Debug\NPOI.OOXML.dll
+D:\ATS\Application\C#\DefectNameReportVersion10\DefectNameReportVersion10\bin\Debug\NPOI.OpenXml4Net.dll
+D:\ATS\Application\C#\DefectNameReportVersion10\DefectNameReportVersion10\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\ATS\Application\C#\DefectNameReportVersion10\DefectNameReportVersion10\bin\Debug\ICSharpCode.SharpZipLib.xml
